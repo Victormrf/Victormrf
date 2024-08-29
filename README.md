@@ -5,7 +5,7 @@
 <div>
 My name is Victor. I'm a Brazilian dude currently studying Eletrical Engineering.
 
-At that moment, I don't have any professional experience as a programmer. But I'm excited to be one. 😆   
+At that moment, I work as a Software Engineer Trainee at LEVTY SYSTMES. 😆   
 </div>
 
 <div>

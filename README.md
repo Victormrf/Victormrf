@@ -9,9 +9,8 @@ At that moment, I work as Software Engineer Trainee at LEVTY SYSTMES. 😆
 </div>
 
 <div>
-  <a href="mailto:luisfalci.1999@gmail.com" target"_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/lu%C3%ADs-gustavo-falci-a438a5225"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/luisfalci_jf/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:vmrf0807@gmail.com" target"_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/lu%C3%ADs-gustavo-falci-a438a5225](https://www.linkedin.com/in/victor-manuel-fernandes/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
 ## Technologies I've worked with

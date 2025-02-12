@@ -53,6 +53,7 @@ At the moment, I work as Software Engineer at
 <div>
 As a software development enthusiast, I'm always looking to acquire new knowledge in the field and develop new technical skills.   
 </div>
+<br />
 
 ## Technologies I've worked with
 

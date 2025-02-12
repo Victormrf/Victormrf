@@ -61,6 +61,8 @@ As a software development enthusiast, I'm always looking to acquire new knowledg
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![Go](https://img.shields.io/badge/go-20b5dd?style=for-the-badge&logo=go&labelColor=black)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Cpp](https://img.shields.io/badge/c%2B%2B-125099?style=for-the-badge&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![Express.js](https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/Nest.js-20232a?style=for-the-badge&logo=nestjs&logoColor=de1f51)

@@ -70,6 +70,7 @@ As a software development enthusiast, I'm always looking to acquire new knowledg
 ![Next.js](https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Postgres](https://img.shields.io/badge/Postgres-37688e?style=for-the-badge&logo=postgresql&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
